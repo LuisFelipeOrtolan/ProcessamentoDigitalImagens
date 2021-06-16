@@ -9,4 +9,4 @@ Neste repositório, se encontram quatro pastas:
 * __T2 - Localização de Objetos na Pirâmide Gaussiana__ : Onde se encontra a implementação da busca de um objeto em uma imagem usando a técnica de procurar na pirâmide Gaussiana, para garantir que um objeto seja encontrado mesmo se não estiver no mesmo tamanho na imagem original.
 * __T3 - Esqueleto de Objeto__: Onde se encontra a implementação da técnica de criar um esqueleto de um objeto em uma imagem.
 
-Todas as implementações foram feitas em Python em conjunto pelos alunos Leonardo Donderi Rodrigues, Luís Felipe Corrêa Ortolan, Marco Antonio Bernardi Grivol e Reynold Navarro Mazo.
+Cada pasta contém um notebook com o  código e seus resultados, além de um arquivo PDF onde os alunos dissertam sobre a técnica e como ela foi aplicada nos notebooks. Todas as implementações foram feitas em Python em conjunto pelos alunos Leonardo Donderi Rodrigues, Luís Felipe Corrêa Ortolan, Marco Antonio Bernardi Grivol e Reynold Navarro Mazo.
